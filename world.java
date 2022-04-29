@@ -7,6 +7,7 @@ System.out.println("Hello,Java");
 System.out.println("------------");
 System.out.print("C DAC NOIDA");
 System.out.println("GOT IT");
+Syustem.out.println("welcome");
 }
 }
 
